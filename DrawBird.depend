@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1701592823 source:c:\users\ad\desktop\bird\drawbird\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<pthread.h>
+	<time.h>
+	<math.h>
+	<mmsystem.h>
+	"Prototype.h"
+
+1701592873 c:\users\ad\desktop\bird\drawbird\prototype.h
+
